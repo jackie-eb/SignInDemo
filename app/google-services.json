@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147438125486",
+    "project_id": "primal-buttress-268008",
+    "storage_bucket": "primal-buttress-268008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147438125486:android:2b993f56f6ffbe396fc83f",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147438125486-15c59q1j66shck5jjmfc4asp9duhnelg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hd2xt8x6dQxlF10uehDSL4up94cGZjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147438125486-15c59q1j66shck5jjmfc4asp9duhnelg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
